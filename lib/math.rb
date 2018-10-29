@@ -18,13 +18,13 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-    num1=6 % num2=2 
+    num1=35 % num2=5 
 
 end
 
 def square_root(num)
   num=72
-  math.sqrt(num)
+  math.square_root(num)
 end
 
 def order_of_operation(num1, num2, num3, num4)
