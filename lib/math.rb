@@ -28,10 +28,10 @@ def square_root(num)
 end
 
 def order_of_operation(num1, num2, num3, num4)
-    num1=12 + 
-    num1=12 + 
-    num2=4 
-num2=4 
-
+    num1=1 + 
+    num2=7 + 
+    num3=17 
+    num4=10 
+num1+((num4*num2)/num3)
   #Hint:  __ + (( __ * __ ) / __ )
 end
